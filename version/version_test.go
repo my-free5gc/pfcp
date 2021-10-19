@@ -5,7 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/pfcp/version"
+//	"github.com/free5gc/pfcp/version"
+	"github.com/my-free5gc/pfcp/version"
 )
 
 func TestVersion(t *testing.T) {

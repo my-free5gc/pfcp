@@ -6,10 +6,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/free5gc/pfcp"
-	"github.com/free5gc/pfcp/pfcpType"
-	//"github.com/my-free5gc/pfcp"
-	//"github.com/my-free5gc/pfcp/pfcpType"
+//	"github.com/free5gc/pfcp"
+//	"github.com/free5gc/pfcp/pfcpType"
+	"github.com/my-free5gc/pfcp"
+	"github.com/my-free5gc/pfcp/pfcpType"
 )
 
 func TestUnmarshal(t *testing.T) {

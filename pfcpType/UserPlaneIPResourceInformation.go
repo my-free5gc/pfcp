@@ -5,7 +5,9 @@ import (
 	"math/bits"
 	"net"
 
-	"github.com/free5gc/pfcp/logger"
+//	"github.com/free5gc/pfcp/logger"
+	"github.com/my-free5gc/pfcp/logger"
+
 	"github.com/free5gc/util_3gpp"
 )
 

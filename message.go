@@ -1,7 +1,9 @@
 package pfcp
 
 import (
-	"github.com/free5gc/pfcp/pfcpType"
+//	"github.com/free5gc/pfcp/pfcpType"
+	"github.com/my-free5gc/pfcp/pfcpType"
+	
 	"github.com/free5gc/util_3gpp"
 )
 

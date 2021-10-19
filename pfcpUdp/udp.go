@@ -5,10 +5,11 @@ import (
 	"net"
 	"sync"
 
-	"github.com/free5gc/pfcp"
-	"github.com/free5gc/pfcp/logger"
-	//"github.com/my-free5gc/pfcp"
-	//"github.com/my-free5gc/pfcp/logger"
+//	"github.com/free5gc/pfcp"
+//	"github.com/free5gc/pfcp/logger"
+	"github.com/my-free5gc/pfcp"
+	"github.com/my-free5gc/pfcp/logger"
+	
 	"github.com/nctu-ucr/onvmNet"
 )
 
